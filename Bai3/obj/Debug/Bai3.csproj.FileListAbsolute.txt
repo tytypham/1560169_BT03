@@ -1,0 +1,6 @@
+E:\laptrinhungdung\1560169_tuan03\Bai3\bin\Debug\Bai3.exe.config
+E:\laptrinhungdung\1560169_tuan03\Bai3\bin\Debug\Bai3.exe
+E:\laptrinhungdung\1560169_tuan03\Bai3\bin\Debug\Bai3.pdb
+E:\laptrinhungdung\1560169_tuan03\Bai3\obj\Debug\Bai3.csprojResolveAssemblyReference.cache
+E:\laptrinhungdung\1560169_tuan03\Bai3\obj\Debug\Bai3.exe
+E:\laptrinhungdung\1560169_tuan03\Bai3\obj\Debug\Bai3.pdb

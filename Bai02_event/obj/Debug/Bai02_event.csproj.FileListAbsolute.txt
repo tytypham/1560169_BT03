@@ -1,0 +1,6 @@
+E:\laptrinhungdung\1560169_tuan03\Bai02_event\bin\Debug\Bai02_event.exe.config
+E:\laptrinhungdung\1560169_tuan03\Bai02_event\obj\Debug\Bai02_event.csprojResolveAssemblyReference.cache
+E:\laptrinhungdung\1560169_tuan03\Bai02_event\bin\Debug\Bai02_event.exe
+E:\laptrinhungdung\1560169_tuan03\Bai02_event\bin\Debug\Bai02_event.pdb
+E:\laptrinhungdung\1560169_tuan03\Bai02_event\obj\Debug\Bai02_event.exe
+E:\laptrinhungdung\1560169_tuan03\Bai02_event\obj\Debug\Bai02_event.pdb
